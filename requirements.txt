@@ -1,0 +1,2 @@
+Gerekli kütüphaneler : numpy , hmmlearn
+
