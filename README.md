@@ -1,2 +1,2 @@
 # MakineOgrenmesiYZM212Odev
-Burada ödevler olacak.
+Burada Makine öğrenmesi ödevleri olacak.
