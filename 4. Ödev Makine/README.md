@@ -30,5 +30,5 @@ Gürültülü gözlem verilerinden Bayesyen çıkarım ve MCMC yöntemiyle bir g
 
 ## Dosyalar
 - `odev.ipynb` – Tüm kod ve analizler
-- `odev_rapor.pdf` – Detaylı rapor
-- `corner_plot_*.png` – Corner plot görselleri
+- `odev4rapor.pdf` – Detaylı rapor
+- 'Sonuclar.txt' - Sonuclar
